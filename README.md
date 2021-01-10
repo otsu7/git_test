@@ -1,0 +1,1 @@
+This is otsu's first git project!
